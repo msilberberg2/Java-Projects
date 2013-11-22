@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=VictoryScreen()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ VictoryScreen.\r\n\ Creates\ a\ new\ world\ with\ 580x580\ cells\ with\ a\ cell\ size\ of\ 1x1\ pixels.\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ Creates\ the\ actor\ in\ the\ victory\ screen\ and\ adds\ it\ to\ the\ world.\r\n\ This\ creates\ the\ words\ present\ on\ the\ Victory\ screen.\r\n
+numComments=2

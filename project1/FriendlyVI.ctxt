@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FriendlyVI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FriendlyVI.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ Allows\ the\ turret\ to\ shoot.\r\n
+comment2.params=
+comment2.target=void\ fire()
+comment2.text=\r\n\ This\ method\ fires\ a\ Laser\ actor\ in\ a\ random\ direction.\r\n
+numComments=3

@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ Allows\ the\ enemy\ to\ shoot,\ move,\ and\ be\ destroyed\ by\ Laser\ or\ RobotHero\ actors.\r\n
+comment1.params=
+comment1.target=InvulnDownEnemy()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ InvulnDownEnemy.\r\n
+numComments=2

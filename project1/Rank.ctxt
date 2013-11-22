@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ Checks\ whether\ or\ not\ the\ player\ has\ reached\ a\ high\ enough\ rank\ to\ upgrade.\r\n
+comment1.params=
+comment1.target=Rank()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Rank.\r\n
+comment2.params=
+comment2.target=void\ upgrade()
+comment2.text=\r\n\ This\ method\ identifies\ when\ the\ player\ is\ presented\ with\ the\ choice\ to\ upgrade\ and\ creates\ the\ upgrade\ text\ box\ if\ it\ is\ appropriate.\r\n\ The\ player\ can\ upgrade\ when\ he/she\ reaches\ the\ rank\ of\ HC\ or\ HG.\r\n
+comment3.params=
+comment3.target=void\ createRank()
+comment3.text=\r\n\ This\ creates\ a\ text\ box\ that\ keeps\ track\ of\ the\ player's\ rank.\r\n\ Keeps\ track\ of\ the\ alphabetic\ and\ numerical\ components\ of\ the\ rank.\r\n
+numComments=4

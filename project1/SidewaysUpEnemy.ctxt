@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ Allows\ the\ enemy\ to\ shoot,\ move,\ and\ be\ destroyed\ by\ Laser\ or\ RobotHero\ actors.\r\n
+comment1.params=
+comment1.target=SidewaysUpEnemy()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SidewaysUpEnemy.\r\n
+comment2.params=
+comment2.target=void\ moveUp()
+comment2.text=\r\n\ This\ method\ constantly\ moves\ the\ enemy\ upwards.\r\n
+numComments=3

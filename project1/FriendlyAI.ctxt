@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FriendlyAI()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ FriendlyAI.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ Allows\ the\ turret\ to\ shoot\ and\ be\ damaged\ by\ EvilLaser\ actors.\r\n
+comment2.params=
+comment2.target=void\ damage()
+comment2.text=\r\n\ This\ method\ recognizes\ damage\ an\ EvilLaser\ actor,\ deletes\ the\ EvilLaser,\ and\ deletes\ itself\ if\ armor\ \=\=\ 0.\r\n
+numComments=3

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.params=
+comment0.target=RobotHero()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ RobotHero.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ Allows\ the\ avatar\ to\ move,\ shoot,\ and\ be\ damaged\ by\ enemies.\r\n
+comment2.params=
+comment2.target=void\ moveHero()
+comment2.text=\r\n\ This\ method\ sets\ the\ hero's\ direction\ and\ moves\ the\ hero.\r\n\ It\ allows\ the\ avatar\ to\ move\ upwards\ or\ downwards.\r\n\ It\ also\ allows\ the\ avatar\ to\ reach\ the\ bottom\ of\ the\ screen\ from\ the\ top\ or\ vice\ versa.\r\n
+comment3.params=
+comment3.target=void\ fire()
+comment3.text=\r\n\ This\ method\ allows\ the\ avatar\ to\ fire\ its\ weapon.\r\n\ It\ creates\ an\ actor\ of\ class\ Laser\ one\ out\ of\ every\ eleven\ times\ the\ method\ is\ called.\r\n
+comment4.params=
+comment4.target=void\ collisionDamage()
+comment4.text=\r\n\ This\ method\ changes\ the\ health\ of\ the\ player\ when\ the\ avatar\ collides\ with\ an\ enemy.\r\n\ The\ code\ for\ changing\ the\ value\ of\ the\ health\ box\ is\ taken\ from\ the\ lecture's\ \r\n\ super\ wombat\ code\ for\ modifying\ a\ health\ counter,\ changed\ for\ the\ purposes\ of\ my\ health\ counter.\r\n
+comment5.params=
+comment5.target=void\ laserDamage()
+comment5.text=\r\n\ This\ method\ changes\ the\ health\ of\ the\ player\ when\ the\ avatar\ collides\ with\ an\ enemy\ laser.\r\n\ The\ code\ for\ changing\ the\ value\ of\ the\ health\ box\ is\ taken\ from\ the\ lecture's\ \r\n\ super\ wombat\ code\ for\ modifying\ a\ health\ counter,\ changed\ for\ the\ purposes\ of\ my\ health\ counter.\r\n
+numComments=6

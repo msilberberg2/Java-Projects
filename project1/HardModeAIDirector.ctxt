@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=HardModeAIDirector()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ HardModeAIDirector.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ This\ method\ decides\ how\ often\ to\ spawn\ enemies.\r\n
+numComments=2

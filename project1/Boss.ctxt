@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ Allows\ the\ boss\ to\ shoot\ and\ be\ damaged\ by\ the\ player.\r\n
+comment1.params=
+comment1.target=Boss()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Boss.\r\n
+comment2.params=
+comment2.target=void\ fireEverything()
+comment2.text=\r\n\ This\ method\ fires\ an\ EvilLaser\ actor\ in\ a\ random\ direction.\r\n
+comment3.params=
+comment3.target=void\ damage()
+comment3.text=\r\n\ This\ method\ changes\ the\ health\ of\ the\ boss\ when\ the\ Boss\ collides\ with\ a\ Laser.\r\n\ It\ also\ deletes\ the\ boss\ when\ health\ is\ 0\ and\ deletes\ the\ Laser.\r\n
+numComments=4

@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=OpeningParagraph()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ OpeningParagraph.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ It\ creates\ the\ text\ box.\r\n
+comment2.params=
+comment2.target=void\ createText()
+comment2.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ This\ text\ box\ appears\ to\ explain\ the\ plot\ of\ the\ game\ to\ the\ player.\r\n
+comment3.params=a\ b
+comment3.target=void\ createNewLine(java.lang.String,\ int)
+comment3.text=\r\n\ This\ method\ creates\ a\ new\ line\ in\ the\ text\ box\ each\ time\ it\ is\ called.\r\n
+numComments=4

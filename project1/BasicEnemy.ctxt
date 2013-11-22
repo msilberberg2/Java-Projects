@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ Allows\ the\ enemy\ to\ shoot,\ move,\ and\ be\ destroyed\ by\ Laser\ or\ RobotHero\ actors.\r\n
+comment1.params=
+comment1.target=BasicEnemy()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ BasicEnemy.\r\n
+comment2.params=
+comment2.target=void\ fire()
+comment2.text=\r\n\ This\ method\ fires\ an\ EvilLaser\ actor.\r\n
+comment3.params=
+comment3.target=void\ selfDestruct()
+comment3.text=\r\n\ This\ method\ deletes\ the\ enemy\ when\ it\ collides\ with\ a\ Laser\ or\ RobotHero.\r\n
+numComments=4

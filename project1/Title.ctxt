@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=void\ act()
+comment0.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ It\ creates\ the\ title\ image.\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ Prepare\ the\ first\ paragraph\ (the\ next\ text\ box).\r\n
+comment2.params=
+comment2.target=Title()
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Title.\r\n
+numComments=3

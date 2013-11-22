@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=
+comment0.target=GameOverScreen()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ GameOverScreen.\r\n\ Creates\ a\ new\ world\ with\ 580x580\ cells\ with\ a\ cell\ size\ of\ 1x1\ pixels.\r\n
+comment1.params=
+comment1.target=void\ prepare()
+comment1.text=\r\n\ Creates\ the\ objects\ in\ the\ game\ over\ screen\ and\ adds\ them\ to\ the\ world.\r\n
+numComments=2

@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=
+comment0.target=EvilLaser()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ EvilLaser.\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ This\ method\ is\ called\ whenever\ the\ game\ environment\ acts\ or\ runs.\r\n\ Allows\ the\ EvilLaser\ to\ move\ backward\ in\ a\ straight\ line\ and\ delete\ itself\ when\ it\ reaches\ the\ borders\ of\ the\ game\ world.\r\n
+comment2.params=
+comment2.target=void\ delete()
+comment2.text=\r\n\ This\ method\ deletes\ the\ EvilLaser\ when\ it\ reached\ the\ borders\ of\ the\ game\ world.\r\n
+numComments=3
